@@ -1,7 +1,7 @@
 # **The Magical World of Harry Potter**
 Harry's story begins on Privet Drive, where he lives a rather dreary life with his Muggle (non-magical) aunt, uncle, and cousin. However, on his eleventh birthday, Harry discovers that he is a wizard and has been accepted into Hogwarts! This revelation changes his life forever, revealing a past filled with mystery and a destiny tied to the dark wizard, Lord Voldemort.
 
----
+***
 
 ## **Hogwarts School of Witchcraft and Wizardry**
 "Nitwit! Blubber! Oddment! Tweak!" - Albus Dumbledore
@@ -22,7 +22,7 @@ Students at Hogwarts learn a variety of magical subjects, including:
 - Astronomy
 - History of Magic
 
----
+***
 
 Absolutely! Let's weave some magic with Markdown and tell you about the wonderful world of Harry Potter:
 
@@ -51,7 +51,7 @@ Herbology
 Astronomy
 History of Magic
 
----
+***
 
 ### **The Fight Against Lord Voldemort**
 At the epicenter of the series is Harry's connection to the dark wizard who murdered Harry's parents when he was but a baby, the venerable Lord Voldemort. The aftermath of that terrible day gave Harry a flick of a mysterious scar on his forehead and the moniker "The Boy Who Lived."
@@ -60,6 +60,6 @@ Throughout the seven books, Harry, Ron, and Hermione face many challenges, fight
 
 The Harry Potter series has captivated millions worldwide, exploring themes of friendship, courage, love, and the fight between good and evil. It's a world filled with magic, wonder, and unforgettable characters.
 
----
+***
 The Harry Potter series has been a fascination for millions worldwide with friendship, bravery, love, and the battle of good against evil as themes. It is a world enchanting with regard to magic, wonder, and unforgettable characters.
 
